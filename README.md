@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ **Jagadish Gunnanti** | 🛠️ DevOps Engineer | 🔥 Debugging Chaos
+⚡ **Jagadish Gunnanti**  |  🛠️ DevOps Engineer  |  🔥 Debugging Chaos
